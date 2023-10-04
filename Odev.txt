@@ -1,0 +1,13 @@
+﻿1 => Algoritma olarak pseudo kodunu yazmanızı...
+2 => Bir şifreleme sınıfı yaratın...Bu sınıfın bir şifreleme bir de sifreyi cözme metodu olacak...
+
+Ornek => 
+
+Sifreleyici s = new Sifreleyici();
+s.Sifrele("123");
+
+"adddasssuuııaaaoorrppppp111p222p333"
+
+
+s.SifreCoz("adddasssuuııaaaoorrppppp111p222p333");
+
